@@ -1,1 +1,1 @@
-web: gunicorn app:aha-heroku
+web: gunicorn aha-heroku:app
