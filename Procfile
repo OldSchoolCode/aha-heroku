@@ -1,1 +1,1 @@
-web: gunicorn --chdir mental_health_app app:app
+gunicorn mental_health_app.wsgi

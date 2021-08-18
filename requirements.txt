@@ -15,7 +15,7 @@ Flask==1.0.2
 Flask-Login==0.4.1
 Flask-Session==0.3.1
 Flask-SocketIO==5.0.1
-gunicorn==0.14.2
+gunicorn==20.1.0
 importlib-metadata==3.3.0
 ipykernel==5.4.2
 ipython==7.19.0
