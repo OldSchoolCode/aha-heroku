@@ -44,6 +44,8 @@ from sklearn import metrics
 from sklearn.metrics import accuracy_score, mean_squared_error, precision_recall_curve
 from sklearn.model_selection import cross_val_score
 
+from google.colab import files
+
 # for db connection
 import sqlite3
 db_filename = "database.db"
