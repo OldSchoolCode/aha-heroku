@@ -1,1 +1,1 @@
-gunicorn aha-heroku.wsgi
+web: gunicorn aha-heroku:app
